@@ -1,6 +1,8 @@
-# SunRnn
+#SunRnn
 
-Multi-language Char RNN in TensorFlow. You can use this code to generate English text, Chinese poetries and lyrics, Japanese text and text in other language.
+原文链接：https://github.com/Jarvis-sun/SunRnn
+
+TensorFlow中的多语言字符RNN。您可以使用此代码生成英文文本，中文诗歌和歌词，日文文本和其他语言的文本。
 
 一个基于最新版本TensorFlow的Char RNN实现。可以实现生成英文、写诗、歌词、小说、生成代码、生成日文等功能。
 
